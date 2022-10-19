@@ -16,11 +16,10 @@ I've worked in a variety of industries (Hardware IP, Finance, Gambling, Social M
 
 ## Interacting with me
 
-First of all, I have a terribly low [Empathy Quotient](https://psychology-tools.com/test/empathy-quotient) score. That doesn't mean at all that I don't care about you, just that I am a bit handicapped when it comes to interpret subtle social cues. So don't count too much on me reading between the lines or figuring out what's going on in your head all by myself.
+First of all, I have a terribly low [Empathy Quotient](https://psychology-tools.com/test/empathy-quotient) score. That doesn't mean at all that I don't care about people, just that I am a bit handicapped when it comes to interpret subtle social cues. So don't count too much on me reading between the lines or figuring out what's going on in your head all by myself!
 
-I value honest and direct communication over euphemisms and roundabouts. It is better to be blunt once and get over with a hard topic than sidelining it a hundred times.
+One thing that gets to my nerves is receiving an instant message with just "Hello" and then keep waiting for me to reply before stating the subject. Let's save a round trip and deliver all the necessary information in one go! Likewise, don't feel like you have to ask about my day before requesting something from me; I appreciate social time and chit-chatting, but it stresses me out to know that you need something from me and are delaying it.
 
-One thing that gets to my nerves is receiving an instant message with just "Hello" and then keep waiting for me to reply before stating the subject. Let's save a round trip and try to write complete messages!
 
 ## The team idiosincrasies
 
