@@ -1,10 +1,10 @@
-# Alejandro Carrasco's README
+# Alejandro's README
 
-## Welcome to the team!
+## Welcome to the team
 
 If you are reading this the chances are that you've just joined my team, so welcome!
 
-An engineering team is like a *band of brothers (and sisters)*, we are going to spend **a lot** of time together. Some of that time will be awesome (we will achieve amazing engineering feats, celebrate our wins, goof around, etc.), and there will be hard times too (debugging horrible legacy code, fixing outages in production, missing deadlines, etc.) but the important thing is we get each others' backs and we stick together.
+An engineering team is like a *band of brothers (and sisters)*, we are going to spend **a lot** of time together. Some of that time will be awesome (we will achieve amazing engineering feats, celebrate our wins, goof around, etc.), and there will be hard times too (debugging horrible legacy code, fixing outages in production, getting in rabbit holes, etc.) but the important thing is we stick together and get each others' backs.
 
 ## Who I am
 
@@ -16,7 +16,7 @@ I spent a few years in Austin TX and I still consider myself a proud Austinite. 
 
 ## Interacting with me
 
-I have a pretty low [Empathy Quotient](https://psychology-tools.com/test/empathy-quotient) score (fun ice breaker: try to guess how low). That doesn't mean that I don't care, just that I am a bit handicapped when it comes to reading between the lines. Please help me to understand what's going on in your head!
+I have a somewhat low [Empathy Quotient](https://psychology-tools.com/test/empathy-quotient) score (fun ice breaker: try to guess how low). But that doesn't mean that I don't care, just that I am bad at mind reading. Please help me to understand what's going on in your head!
 
 I value honest and direct communication over euphemisms and roundabouts. It is better to be blunt once and get over with a hard topic than sidelining it a hundred times (or as we say in Spain *más vale una vez rojo que ciento colorado*).
 
@@ -26,36 +26,36 @@ My pet peeve is receiving an instant message with just "Hello" and then wait for
 
 - We do **a lot** of pair/mob programming
 - We keep a shared document as a log of the team's progress
-    - Filling it beforehand helps us to go not get stuck during the daily sync (so we can use that extra time in random shenanigans)
-    - It helps people that couldn't attend to the sync to know what's going on
-    - It helps to identify when people are stuck or getting interrupted a lot
+  - Filling it beforehand helps us to go not get stuck during the daily sync (so we can use that extra time in random shenanigans)
+  - It helps people that couldn't attend to the sync to know what's going on
+  - It helps to identify when people are stuck or getting interrupted a lot
 - We love to argue because **we are passionate** and care about what we do
-    - It is OK to disagree
-    - It is not OK to hold a grudge over a disagreement, we all want what is best for the team
+  - It is OK to disagree
+  - It is not OK to hold a grudge over a disagreement, we all want what is best for the team
 - Team time is never wasted time
-    - If a daily sync goes for longer than usual because somebody wants to tell us about their day, or crack a joke, it is fine
-    - If somebody is feeling overwhelmed with work and needs a break to grab some coffee, I encourage you to go tag along with them
+  - If a daily sync goes for longer than usual because somebody wants to tell us about their day, or crack a joke, it is fine
+  - If somebody is feeling overwhelmed with work and needs a break to grab some coffee, I encourage you to go tag along with them
 - We are transparent by default
-    - Our Google drive files are shared with all Tech
-    - Our calendars default visibility is public
-    - Anyone can pop by our shared zoom room
+  - Our Google drive files are shared with all Tech
+  - Our calendars default visibility is public
+  - Anyone can pop by our shared zoom room
 
 ## What I expect from you
 
 - To be bold
 - To be creative
 - To enjoy what you do
-- To have a great time with the team!
 - To be eager for learning new things
 - To be proud of what we are achieving together
 - To have a sense of ownership
 - To ask for help when you need it
+- To have a great time with the team!
 
 ## What you can expect from me
 
 - To make time for you
 - To stand up for you
 - To give you honest feedback
-- To coach you
-- To stay up late or start early with you if you have to do it
-- To catch you off guard with a joke when you least expect it
+- To lead by example
+- To coach and mentor you
+- To tell dad jokes when no one is expecting them
