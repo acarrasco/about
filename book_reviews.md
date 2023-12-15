@@ -1,6 +1,6 @@
 # Alejandro's book reviews
 
-Here are some reviews for books related with our craft. Maybe I can encourage you to read (or skip) some.
+Here are some reviews for books related to our craft. Maybe I can encourage you to read (or skip) some.
 
 ## Software Engineering
 

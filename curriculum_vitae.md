@@ -6,7 +6,7 @@
 
 ### March 2021 - October 2023: Aircall (Madrid, ES)
 
-As an **Engineering Team Lead** of the *Smartflows* team, I led the design and implementation of a new scalable and configurable routing system for incoming calls in *Aircall*’s cloud call center.
+As the **Engineering Team Lead** of the *Smartflows* team, I led the design and implementation of a new scalable and configurable routing system for incoming calls in *Aircall*’s cloud call center.
 
 * Learned
   * Advanced TypeScript and node.js
