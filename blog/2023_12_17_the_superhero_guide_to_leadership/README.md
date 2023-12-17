@@ -30,6 +30,4 @@ This means you don't have to be Superman. You don't even have to be a superstar 
 
 Your role is to identify your team members' strongest suits and distribute the workload accordingly. To mediate when there is conflict. To rally the team when morale is down. To point in the right direction when they are lost.
 
-Exactly what Cap does in the Battle of New York :)
-
-[![IMBattle of New YorkE](https://img.youtube.com/vi/uk9id1KIjns/0.jpg)](https://www.youtube.com/watch?v=uk9id1KIjns)
+Exactly what Cap does in the [Battle of New York](https://www.youtube.com/watch?v=uk9id1KIjns) :)
