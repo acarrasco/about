@@ -4,19 +4,20 @@
 
 ## About me
 
-These days, I find great satisfaction in mentoring and leading the next generation of engineers. My natural inclination now leans towards roles in leadership and management.
+These days, I take great pleasure in mentoring and leading upcoming engineers. It's become clear to me that my calling lies in leadership and management, yet I also value staying hands-on to remain connected with my reports' work.
 
-As an engineer, I pride myself on being a jack-of-all-trades. Having worked across diverse industries and with a range of technologies, I leverage this knowledge to discover innovative, out-of-the-box solutions for hard and unexplored problems.
+As an engineer, I pride myself on being a jack-of-all-trades. Having worked across diverse industries and with various technologies, I regularly leverage this knowledge to discover innovative, out-of-the-box solutions for challenging and unexplored problems.
 
 ## Work experience
 
 ### November 2023 - December 2023: Gorgias (Paris, FR)
 
-As a **Senior Software Engineer** in the *Phone* team, my mission was to be the go-to expert in Twilio and help the team build their next generation call routing system. However, it didn't work out because our expectations were misaligned.
+As a **Senior Software Engineer** in the *Phone* team, my mission was to be the go-to expert in Twilio and help the team build their next generation call routing system. I took this role because I wanted the opportunity to explore ideas that I could not implement at *Aircall*. However, our expectations were misaligned and it did not work out.
 
 * Learned
-  * Some SQLAlchemy
-  * Some Google Cloud Platform
+  * Basic SQLAlchemy
+  * Basic Google Cloud Platform
+  * Some architectural patterns
 * Liked
   * The developer experience was pretty good
   * Very lean approach to development
