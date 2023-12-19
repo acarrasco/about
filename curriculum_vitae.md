@@ -10,6 +10,19 @@ As an engineer, I pride myself on being a jack-of-all-trades. Having worked acro
 
 ## Work experience
 
+### November 2023 - December 2023: Gorgias (Paris, FR)
+
+As a **Senior Software Engineer** in the *Phone* team, my mission was to be the go-to expert in Twilio and help the team build their next generation call routing system. However, it didn't work out because our expectations were misaligned.
+
+* Learned
+  * Some SQLAlchemy
+  * Some Google Cloud Platform
+* Liked
+  * The developer experience was pretty good
+  * Very lean approach to development
+* Lacked
+  * An onboarding plan more adequate to my background
+
 ### March 2021 - October 2023: Aircall (Madrid, ES)
 
 As the **Engineering Team Lead** of the *Smartflows* team, I led the design and implementation of a new scalable and configurable routing system for incoming calls in *Aircall*’s cloud call center.
@@ -18,6 +31,7 @@ As the **Engineering Team Lead** of the *Smartflows* team, I led the design and 
   * Advanced TypeScript and node.js
   * Serverless and event driven architectures on AWS
   * Manage teams of up to 7 engineers
+  * Twilio programmable voice
   * Technical writing
   * Conflict resolution
   * Design of a complex real time service that handles ~1M calls per day
