@@ -4,11 +4,9 @@
 
 ## About me
 
-In high school, my Philosophy teacher described me as embodying the spirit of the Renaissance man — someone who cherishes both art and science, and is likely to continually pursue creative endeavors. During my college years, the head of the Computer Architecture Department, where I interned, remarked that I was going to be one of the few "complete engineers" who leave no bases uncovered.
+These days, I find great satisfaction in mentoring and leading the next generation of engineers. My natural inclination now leans towards roles in leadership and management.
 
-Their observations highlight my thirst for knowledge, and my rejection of being a mere one-trick pony. Throughout my career, this sentiment has remained true. I've adapted from one technology and domain to another, consistently applying the lessons learned to discover innovative, out-of-the-box solutions.
-
-These days I have discovered the joy of mentoring and leading younger generations of engineers. I think my natural place now is in leadership and management.
+As an engineer, I pride myself on being a jack-of-all-trades. Having worked across diverse industries and with a range of technologies, I leverage this knowledge to discover innovative, out-of-the-box solutions for hard and unexplored problems.
 
 ## Work experience
 
