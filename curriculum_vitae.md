@@ -213,7 +213,7 @@ As a **Design Engineer** in the *Services Team*, my job consisted in developing 
 
 * Top contributor in *StackOverflow* (0.25% reputation percentile as the moment of writing): <https://stackoverflow.com/users/106979/fortran>
 * Participant in *Project Euler* (top 1.96% percentile by problems solved before the account was lost forever in a migration after a security issue in 2014)
-* Participant in the *Advent of Code* challenge, regularly in the top ~2000 solvers (personal best rank for a problem is 477th for year 2022 day 7 part 2) - Want to join my private leaderboard? Here is the code `1764218-e39a59c4`
+* Participant in the *Advent of Code* challenge, regularly in the top ~2000 solvers (personal best rank for a problem is 152nd for 2023/24) - Want to join my private leaderboard? Here is the code `1764218-e39a59c4`
 * 4th Place in the *IV CUPCAM* programming contest, held in the Polytechnic University of Madrid in 2006.
 * Organizer, judge and contributor to the problem set of the *V CUPCAM* programming contest held in the University Carlos III of Madrid in 2007
 * Contributor to the problem set and reviewer of Tuenti Challenge 2019
