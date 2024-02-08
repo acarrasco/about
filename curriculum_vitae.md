@@ -4,9 +4,11 @@
 
 ## About me
 
-These days, I take great pleasure in mentoring and leading upcoming engineers. It's become clear to me that my calling lies in leadership and management, yet I also value staying hands-on to remain connected with my reports' work.
+As a software engineer, I pride myself on being a jack-of-all-trades. Having worked in diverse industries and technologies, I regularly leverage this knowledge to discover out-of-the-box solutions that are only evident after feeding *the creativity machine* with a lot of background information!
 
-As an engineer, I pride myself on being a jack-of-all-trades. Having worked across diverse industries and with various technologies, I regularly leverage this knowledge to discover innovative, out-of-the-box solutions for challenging and unexplored problems.
+I also like mentoring and coaching other engineers, optimizing how teams collaborate, and creating environments where people enjoy working.
+
+You can learn more about me in my "[manager's readme](./manager_readme.md)".
 
 ## Work experience
 
@@ -226,6 +228,7 @@ As a **Design Engineer** in the *Services Team*, my job consisted in developing 
 
 ## Other information
 
+* I have [YouTube channel](https://www.youtube.com/channel/UCIzzz5-sgA4hmKzMyP7ykEA) (mostly in Spanish) about software engineering.
 * Top contributor in *StackOverflow* (0.25% reputation percentile as the moment of writing): <https://stackoverflow.com/users/106979/fortran>
 * Participant in *Project Euler* (top 1.96% percentile by problems solved before the account was lost forever in a migration after a security issue in 2014)
 * Participant in the *Advent of Code* challenge, regularly in the top ~2000 solvers (personal best rank for a problem is 152nd for 2023/24) - Want to join my private leaderboard? Here is the code `1764218-e39a59c4`
