@@ -220,3 +220,4 @@ As a **Design Engineer** in the *Services Team*, my job consisted in developing 
 * 4th Place in the *IV CUPCAM* programming contest, held in the Polytechnic University of Madrid in 2006.
 * Organizer, judge and contributor to the problem set of the *V CUPCAM* programming contest held in the University Carlos III of Madrid in 2007
 * Contributor to the problem set and reviewer of Tuenti Challenge 2019
+* [Contributions to various open source projects](./open_source_contributions.md)
