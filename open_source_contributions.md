@@ -2,10 +2,9 @@
 
 Usually small things, but I will likely forget them if I do not write them down!
 
-- https://github.com/statsite/statsite/pull/288
-- https://github.com/typelevel/squants/pull/312
-- https://github.com/dpnova/tornado-memcache/pull/13/
-- https://github.com/spalger/grunt-run/pull/17
-- https://github.com/ingenieux/awseb-deployment-plugin/pull/16
-- https://github.com/3rd-Eden/memcached/pull/214
-- https://github.com/3rd-Eden/memcached/pull/203
+- [statsite](https://github.com/statsite/statsite/pulls?q=is%3Apr+author%3Aacarrasco)
+- [squants](https://github.com/typelevel/squants/pulls?q=is%3Apr+author%3Aacarrasco)
+- [tornado-memcache](https://github.com/dpnova/tornado-memcache/pulls?q=is%3Apr+author%3Aacarrasco)
+- [grunt-run](https://github.com/spalger/grunt-run/pulls?q=is%3Apr+author%3Aacarrasco)
+- [awseb-deployment-plugin](https://github.com/ingenieux/awseb-deployment-plugin/pulls?q=is%3Apr+author%3Aacarrasco)
+- [nodejs-memcached)](https://github.com/3rd-Eden/memcached/pulls?q=is%3Apr+author%3Aacarrasco)

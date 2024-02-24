@@ -12,7 +12,7 @@ I have a *Computer Engineering* degree at the University Carlos III of Madrid; m
 
 I worked in a variety of industries (Hardware IP, Finance, Gambling, Social Marketing, Blockchain). Instead of specializing I have accumulated too much surface knowledge (and I manage to make it useful somehow).
 
-I spent a few years in Austin TX and I still consider myself a proud Austinite. The chances are I won't shut up about it.
+I spent a few years in Austin TX and I still consider myself a proud Austinite. The chances are I won't shut up about it 🤠
 
 ## Interacting with me
 
@@ -58,4 +58,4 @@ My pet peeve is receiving an instant message with just "Hello" and then wait for
 - To give you honest feedback
 - To lead by example
 - To coach and mentor you
-- To tell dad jokes when no one is expecting them
+- To crack a joke when no one is expecting it
