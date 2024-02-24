@@ -6,9 +6,9 @@
 
 As a software engineer, I pride myself on being a jack-of-all-trades. Having worked in diverse industries and technologies, I regularly leverage this knowledge to discover out-of-the-box solutions that are only evident after feeding *the creativity machine* with a lot of background information!
 
-I also like mentoring and coaching other engineers, optimizing how teams collaborate, and creating environments where people enjoy working.
+I also like mentoring and coaching other engineers, optimizing how teams collaborate, and creating environments where people enjoy working. I often take my camera with me and [document our work life](https://www.flickr.com/photos/alejandrocarrasco/albums).
 
-You can learn more about me in my "[manager's readme](./manager_readme.md)".
+You can learn more about me in my [*manager's readme*](./manager_readme.md).
 
 ## Work experience
 
