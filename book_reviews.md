@@ -30,6 +30,23 @@ My key takeaways:
 - Software is like a home, make yourself comfortable.
 - You need to find a balance between readability and compression.
 
+### The Pragmatical Programmer (Andrew Hunt and David Thomas)
+
+If you are a seasoned developer, this book won't blow your mind. But it is full of good common-sense advice, so it might be a good idea to read it even if only to reinforce what you already knew.
+
+I would definitely recommend it to junior developers and people getting into the craft.
+
+### The Lean Startup (Eric Ries)
+
+My manager got this book for the whole team when I was a software engineer working at Bazaarvoice; and I continued the tradition getting a copy for all my team whean I was a manager at Aircall.
+
+The biggest issue I see with this book is that it is full of *survivor bias* and does not seem to be aware of it.
+
+My key takeaways:
+
+- Be systematic about experimenting and measuring results
+- Do not be afraid to correct course based on the experiments' results
+
 ## Management and soft skills
 
 ### How to Win Friends and Influence People (Dale Carnegie)
