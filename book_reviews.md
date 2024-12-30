@@ -58,6 +58,15 @@ My key takeaways:
 - Being a good person usually pays off.
 - Empathy is a skill that can be practiced.
 
+### Atomic Habits (James Clear)
+
+Very interesting read, it reminded me a lot in tone and structure to "How to Win Friends...". Again, there's nothing outrageously novel in the book, but it succeeds in teaching a systematic approach to habit building.
+
+My key takeaways:
+
+- Even the smallest progress is better than no progress (or going backwards).
+- It pays off to put effort in making hard tasks easier rather than in the tasks themselves.
+
 ### How to Write and Speak Better (Reader's Digest)
 
 This book is out of print and kind of difficult to find today, but you can find a pdf copy.
