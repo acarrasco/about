@@ -47,6 +47,14 @@ My key takeaways:
 - Be systematic about experimenting and measuring results
 - Do not be afraid to correct course based on the experiments' results
 
+### Game Programming Patterns (Robert Nystrom)
+
+The gaming industry is very often overlooked in the "business" software engineering, but there is a lot to learn from video games (after all, games have always been pushing the boundaries of technology).
+
+This book overlaps a lot with the classic "Design Patterns: Elements of Reusable Object-Oriented Software", but has a much warmer tone and has plenty of practical examples of when (and when not) to apply each patterns in the context of game development.
+
+It is a fun read, but do not expect to learn game-changing (pun intended) skills from it.
+
 ## Management and soft skills
 
 ### How to Win Friends and Influence People (Dale Carnegie)
