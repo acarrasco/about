@@ -40,7 +40,7 @@ I would definitely recommend it to junior developers and people getting into the
 
 My manager got this book for the whole team when I was a software engineer working at Bazaarvoice; and I continued the tradition getting a copy for all my team whean I was a manager at Aircall.
 
-The biggest issue I see with this book is that it is full of *survivor bias* and does not seem to be aware of it.
+The biggest issue I see with this book is that it is full of _survivor bias_ and does not seem to be aware of it.
 
 My key takeaways:
 
@@ -89,3 +89,9 @@ My key takeaways:
 
 - You are not alone, every manager has gone through the same steps you are going. Do not be ashamed to ask for help to your more senior managers.
 - The further you walk the path, the more detached you have to be from your reports.
+
+### The Inner Game of Tennis (W. Timothy Gallwey)
+
+Not sure if I can recommend this book for most software engineers. A big part of it is about getting into a _state of flow_, but I think any mindfulness handbook can guide you better about how to quiet the ego and be in the moment.
+
+Still, the parts about listening to the body and observing in a non-judgmental way are useful for physical activities other than tennis. I feel I could have benefited from it **a lot** when getting my motorcycle riding license.
